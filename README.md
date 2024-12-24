@@ -1,3 +1,5 @@
+通过网盘分享的文件：YOLO.zip
+链接: https://pan.baidu.com/s/1yS1hU0485UDcATWeYFCE2A?pwd=55ar 提取码: 55ar
 <div align="center">
   <p>
     <a href="https://www.ultralytics.com/events/yolovision" target="_blank">
